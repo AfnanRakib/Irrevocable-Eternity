@@ -1,10 +1,5 @@
 # Irrevocable-Eternity
 Irrevocable-Eternity is an amazing action packed dungeon fighting 2D game developed by Md. Rakib Hasan, Shahriar Rahman Bhuiyan and Kazi Zannatul Tajrin.
-Here are the screenshots of the game:
-
-<img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/menu.png" width="985" height="599">
-<img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/level1.png" width="985" height="599">
-<img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/level2.png" width="985" height="599">
 
 ## Table of Contents
 
@@ -13,7 +8,7 @@ Here are the screenshots of the game:
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
-- [Demo Video](#demo-video)
+- [Screenshot and Demo Video](#screenshot-and-demo-video)
 - [Team Members](#team-members)
 
 ## Introduction
@@ -54,11 +49,18 @@ The player has to advance through each levels in order to finish the game. There
   - Left click on the mouse for shielding
   - Mouse click to select options from the menu
 
-## Demo Video
+## Screenshot and Demo Video
 
 Check out the gameplay video of Irrevocable-Eternity on [YouTube](https://www.youtube.com/watch?v=ASsGai9TVV0):
 
 [![Irrevocable-Eternity](https://img.youtube.com/vi/ASsGai9TVV0/0.jpg)](https://www.youtube.com/watch?v=ASsGai9TVV0)
+
+-Menu Screen:
+<img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/menu.png" width="985" height="599">
+-Level 1:
+<img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/level1.png" width="985" height="599">
+-Level 2:
+<img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/level2.png" width="985" height="599">
 
 ## Team Members
 
