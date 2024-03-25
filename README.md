@@ -55,11 +55,11 @@ Check out the gameplay video of Irrevocable-Eternity on [YouTube](https://www.yo
 
 [![Irrevocable-Eternity](https://img.youtube.com/vi/ASsGai9TVV0/0.jpg)](https://www.youtube.com/watch?v=ASsGai9TVV0)
 
--Menu Screen:
+**Menu Screen:**
 <img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/menu.png" width="985" height="599">
--Level 1:
+**Level 1:**
 <img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/level1.png" width="985" height="599">
--Level 2:
+**Level 2:**
 <img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/level2.png" width="985" height="599">
 
 ## Team Members
