@@ -1,10 +1,10 @@
 # Irrevocable-Eternity
-Irrevocable-Eternity is an amazing action packed dungeon fighting 2D game developed by Md. Rakib Hasan,Shahriar Rahman Bhuiyan and Kazi Zannatul Tajrin.
+Irrevocable-Eternity is an amazing action packed dungeon fighting 2D game developed by Md. Rakib Hasan, Shahriar Rahman Bhuiyan and Kazi Zannatul Tajrin.
 Here are the screenshots of the game:
 
-![Gameplay Screenshot](https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/menu.png)
-![Gameplay Screenshot](https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/level1.png)
-![Gameplay Screenshot](https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/level2.png)
+<img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/menu.png" width="985" height="599">
+<img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/level1.png" width="985" height="599">
+<img src="https://github.com/AfnanRakib/Irrevocable-Eternity/blob/main/level2.png" width="985" height="599">
 
 ## Table of Contents
 
@@ -45,14 +45,14 @@ To play Irrevocable-Eternity, follow these steps:
 
 The player has to advance through each levels in order to finish the game. There are two levels in the game. The first level is completed by killing all the enemies and moving through various scenarios towards the dragon. The protagonist will lose lives if he takes a hit from the enemy minions. The second level is completed by collecting coins on dragon-back. The dragon will lose lives if it comes in contact with the spikes. If the player loses all his lives, he will die and the game will be over.
 
-  ❖ Movements:
-    - ‘W’ for jumping
-    - ‘A’ to go backward
-    - ‘D’ to go forward
-  ❖ Actions:
-    - Right click on the mouse to attack
-    - Left click on the mouse for shielding
-    - Mouse click to select options from the menu
+- Movements:
+  - ‘W’ for jumping
+  - ‘A’ to go backward
+  - ‘D’ to go forward
+- Actions:
+  - Right click on the mouse to attack
+  - Left click on the mouse for shielding
+  - Mouse click to select options from the menu
 
 ## Demo Video
 
@@ -63,7 +63,7 @@ Check out the gameplay video of Irrevocable-Eternity on [YouTube](https://www.yo
 ## Team Members
 
 - Md. Rakib Hasan
-  - LinkedIn: [Md. Rakib Hasan LinkedIn](www.linkedin.com/in/afnanhasanrakib)
+  - LinkedIn: [Md. Rakib Hasan LinkedIn](https://www.linkedin.com/in/afnanhasanrakib)
 - Md. Shahriar Rahman Bhuyian
 - Kazi Zannatul Tajrin
   
