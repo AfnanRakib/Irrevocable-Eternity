@@ -63,7 +63,7 @@ Check out the gameplay video of Irrevocable-Eternity on [YouTube](https://www.yo
 ## Team Members
 
 - Md. Rakib Hasan
-  - LinkedIn: [Md. Rakib Hasan LinkedIn](https://www.linkedin.com/in/afnanhasanrakib)
+  - LinkedIn: [Md. Rakib Hasan](https://www.linkedin.com/in/afnanhasanrakib)
 - Md. Shahriar Rahman Bhuyian
 - Kazi Zannatul Tajrin
   
