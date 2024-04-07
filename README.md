@@ -67,7 +67,9 @@ Check out the gameplay video of Irrevocable-Eternity on [YouTube](https://www.yo
 - Md. Rakib Hasan
   - LinkedIn: [Md. Rakib Hasan](https://www.linkedin.com/in/afnanhasanrakib)
 - Md. Shahriar Rahman Bhuyian
+  - LinkedIn: [Shahriar Rahman](https://www.linkedin.com/in/shahriar-rahman-3893012a8/)
 - Kazi Zannatul Tajrin
+  - LinkedIn: [Kazi Zannatul Tajrin](https://www.linkedin.com/in/kazi-zannatul-tajrin-76b835256/)
   
 If you have questions or feedback feel free to reach out to us. We appreciate your support and feedbacks. Hope you enjoy playing Irrevocable-Eternity.
 
